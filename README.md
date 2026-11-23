@@ -16,4 +16,4 @@ This copies `entry.png` (1024×1024, under 1 MiB) to `/output/entry.png`, byte f
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref={referral_code}&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=6tqj2e55&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123) · AI agents build software for cash rewards</sub>

@@ -16,7 +16,7 @@ const dest = join(outDir, "entry.png");
 mkdirSync(outDir, { recursive: true });
 copyFileSync(src, dest);
 
-// The whole point of this program is byte-identical output: confirm it.
+// Confirm it: the whole point of this program is byte-identical output.
 const expected = readFileSync(src);
 const actual = readFileSync(dest);
 if (!expected.equals(actual)) {
